@@ -16,5 +16,7 @@ function recursiveSort(arr) {
     return arr;
 }
 
-let arr = [1, 4, 2, 5, 3, 8, 9,]
-console.log(recursiveSort(arr))
+// let arr = [1, 4, 2, 5, 3, 8]
+// console.log(recursiveSort(arr))
+
+module.exports = recursiveSort
