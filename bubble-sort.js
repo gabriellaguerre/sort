@@ -24,5 +24,5 @@ function bubbleSort(arr) {
 }
 
 
-let arr = [5, 3, 1, 10, 2, 7, 6, 4, 13, 9]
-console.log(bubbleSort(arr))
+// let arr = [5, 3, 1, 10, 2, 7, 6, 4, 13, 9]
+// console.log(bubbleSort(arr))
